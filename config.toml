@@ -50,4 +50,8 @@ _merge = "none"
       icon = "envelope" # may be omitted. defaults to key name
       style = "fas" # may be omitted. default = "fas"
       link = "mailto:info@cycapp.com"
-      
+    [params.contact.applink]
+    name = "link"
+    icon = "link"
+    style = "fas"
+    link = "https://testflight.apple.com/join/01iMzMq6"
