@@ -27,7 +27,7 @@ _merge = "none"
   # use [params.contact.email] instead.
   #email = "info@cycapp.com"
   description = "An easy app for women"
-  bio = "An easy app for women.  \nCyc helps women to follow their periods."
+  bio = "An easy app for women.  \nCyc helps women to follow their periods.  \nYou can join the test flight. https://testflight.apple.com/join/01iMzMq6"
   avatar = "img/logo.png"
   favicon = "img/favicon.ico"
   error404 = "There is no such page."
